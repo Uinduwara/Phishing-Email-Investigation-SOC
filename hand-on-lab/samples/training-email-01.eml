@@ -1,0 +1,31 @@
+Return-Path: <alerts@security-notice.example>
+Received: from mail.security-notice.example
+ (mail.security-notice.example [192.0.2.45])
+ by mx.company.example with ESMTP
+ id LAB20261124;
+ Tue, 24 Nov 2026 10:30:00 +0000
+Received: from workstation.security-notice.example
+ ([192.0.2.100])
+ by mail.security-notice.example with ESMTP;
+ Tue, 24 Nov 2026 10:28:00 +0000
+Authentication-Results: mx.company.example;
+ spf=fail smtp.mailfrom=security-notice.example;
+ dkim=none;
+ dmarc=fail header.from=security-notice.example
+From: "IT Security Team" <alerts@security-notice.example>
+To: employee@company.example
+Reply-To: helpdesk@account-support.example
+Subject: Urgent Account Verification Required
+Date: Tue, 24 Nov 2026 10:27:00 +0000
+Message-ID: <lab001@security-notice.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Employee,
+
+We noticed unusual activity on your account.
+
+Please contact your IT administrator to verify
+your account status.
+
+IT Security Team

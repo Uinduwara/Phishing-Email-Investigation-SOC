@@ -1,0 +1,16 @@
+From: IT Support <support@company-helpdesk.example>
+To: employee@company.example
+Subject: URGENT: Your Account Will Be Suspended
+
+Dear Employee,
+
+We detected unusual activity on your account.
+
+Your account will be suspended within 24 hours unless you verify your identity.
+
+Please verify your account immediately:
+https://account-verification.example/login
+
+Failure to complete verification may result in account suspension.
+
+IT Support Team
