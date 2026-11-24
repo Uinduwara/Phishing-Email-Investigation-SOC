@@ -94,21 +94,52 @@ Project-04-Phishing-Email-Investigation/
 
 ##  Evidence
 
-### Simulated Investigation
+### Simulated Phishing Investigation
 
-- Evidence 01 — Email Overview
-- Evidence 02 — Email Headers
-- Evidence 03 — Sender and Domain Analysis
-- Evidence 04 — IOC Analysis
-- Evidence 05 — Final Verdict
-- Evidence 06 — Investigation Report
+**Evidence 01 — Email Overview**
 
-### Hands-on Investigation
+![Email Overview](evidence/Evidence-01-Email-Overview.png)
 
-- Evidence 07 — Real Email Header Analysis
-- Evidence 08 — URL Investigation
-- Evidence 09 — Authentication Results
-- Evidence 10 — Investigation Findings
+**Evidence 02 — Email Headers**
+
+![Email Headers](evidence/Evidence-02-Email-Headers.png)
+
+**Evidence 03 — Sender and Domain Analysis**
+
+![Sender and Domain Analysis](evidence/Evidence-03-Sender-Domain-Analysis.png)
+
+**Evidence 04 — IOC Analysis**
+
+![IOC Analysis](evidence/Evidence-04-IOC-Analysis.png)
+
+**Evidence 05 — Final Verdict**
+
+![Final Verdict](evidence/Evidence-05-Final-Verdict.png)
+
+**Evidence 06 — Investigation Report**
+
+![Investigation Report](evidence/Evidence-06-Investigation-Report.png)
+
+---
+
+### Hands-on Email Security Investigation
+
+**Evidence 07 — Real Email Header Analysis**
+
+![Real Email Header Analysis](hands-on-lab/screenshots/Evidence-07-Real-Email-Header-Analysis.png)
+
+**Evidence 08 — URL Investigation**
+
+![URL Investigation](hands-on-lab/screenshots/Evidence-08-URL-Investigation.png)
+
+**Evidence 09 — Authentication Results**
+
+![Authentication Results](hands-on-lab/screenshots/Evidence-09-Authentication-Results.png)
+
+**Evidence 10 — Investigation Findings**
+
+![Investigation Findings](hands-on-lab/screenshots/Evidence-10-Investigation-Findings.png)
+
 
 ##  Skills Demonstrated
 
