@@ -124,21 +124,18 @@ Project-04-Phishing-Email-Investigation/
 
 ### Hands-on Email Security Investigation
 
-**Evidence 07 — Real Email Header Analysis**
+### Evidence 07 — Real Email Header Analysis
+![Real Email Header Analysis](hand-on-lab/screenshots/Evidence-07-Real-Email-Header-Analysis.png)
 
-![Real Email Header Analysis](hands-on-lab/screenshots/Evidence-07-Real-Email-Header-Analysis.png)
+### Evidence 08 — URL Investigation
+![URL Investigation](hand-on-lab/screenshots/Evidence-08-URL-Investigation.png)
 
-**Evidence 08 — URL Investigation**
+### Evidence 09 — Authentication Results
+![Authentication Results](hand-on-lab/screenshots/Evidence-09-Authentication-Results.png)
 
-![URL Investigation](hands-on-lab/screenshots/Evidence-08-URL-Investigation.png)
+### Evidence 10 — Investigation Findings
+![Investigation Findings](hand-on-lab/screenshots/Evidence-10-Investigation-Findings.png)
 
-**Evidence 09 — Authentication Results**
-
-![Authentication Results](hands-on-lab/screenshots/Evidence-09-Authentication-Results.png)
-
-**Evidence 10 — Investigation Findings**
-
-![Investigation Findings](hands-on-lab/screenshots/Evidence-10-Investigation-Findings.png)
 
 
 ##  Skills Demonstrated
